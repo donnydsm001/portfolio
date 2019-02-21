@@ -1,0 +1,74 @@
+#title{
+    background:url(images/free.jpg);
+    color: white;
+    
+}
+
+h1 {
+    color: white;
+}
+.nav-link {
+    font-family: "Montserrat-Light";
+    font-size: 1.2rem;
+    color: white;
+    text-transform: uppercase;
+    transition:.3s;
+    display: flex;
+    
+}
+
+.nav-item {
+    padding: 0 12px;
+  }
+.navbar {
+    padding-bottom: 4.5rem;
+}
+.premier {
+    font-family: "Ubuntu";
+    font-size: 2rem;
+    font-weight: bold;
+    color :white;
+ }
+ .Download-button {
+    margin: 5% 3% 5% 0;
+  }
+  #about{
+    padding: 7% 15%;
+    background: black;
+    color:white;
+}
+.about-box{
+	padding: 5%;
+	text-align: center;
+}
+.skill-box{
+    text-align: center;
+    padding: 20px;
+}
+
+#footer{
+ background: url(images/free.jpg);
+  text-align: center;
+  padding: 10px  10px;
+}
+hr {
+    background-color: gray;
+    border-top-style: dotted;
+    border-style: none;
+    height: 2px;
+    width: 100px;
+}
+
+.copy {
+    color :#EAF6F6;
+}
+.footer-link{
+    padding: inherit;
+}
+.images{
+    border-radius: 60px;
+    padding: 20px;
+}
+.photo{
+    border-radius: 50%;
+}
